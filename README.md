@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omidparishani
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JAVA EE
+- 🌱 I’m currently Programing JAVA 
 - 📫 How to reach me Omidparishani@yahoo.com
 
 <!---
